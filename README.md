@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoshuaClugston
-- 👀 I’m interested in quantum computing, machine learning, and mathematics. 
+- 👀 I’m interested in machine learning, control theory, and high performance computing. 
 - 🌱 I’m constantly learning.
-- 💞️ I’m looking to collaborate on interesting projects. 
+- 💞️ I’m always looking to collaborate. 
 - 📫 Reach me @JoshuaClugston on Twitter.
