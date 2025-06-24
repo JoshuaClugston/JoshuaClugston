@@ -3,4 +3,4 @@
 - 🌱 I’m constantly learning, and working on new, exciting projects.
 - 💞️ I’m always looking to collaborate. 
 - 📫 Reach me @JoshuaClugston on Twitter.
-- ✅ Check me out at [clugston-joshua.github.io](clugston-joshua.github.io).
+- ✅ Check me out at [clugston-joshua.github.io](https://clugston-joshua.github.io).
