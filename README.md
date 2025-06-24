@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @JoshuaClugston
+- 👋 Hi, I’m @JoshuaClugston. This is where you can find some of more recent, public projects that I have been working on. 
 - 👀 I’m interested in machine learning, optimization, and high performance computing. 
-- 🌱 I’m constantly learning.
+- 🌱 I’m constantly learning, and working on new, exciting projects.
 - 💞️ I’m always looking to collaborate. 
 - 📫 Reach me @JoshuaClugston on Twitter.
+- ✅ Check me out at [clugston-joshua.github.io](clugston-joshua.github.io).
